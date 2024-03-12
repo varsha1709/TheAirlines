@@ -1,0 +1,10 @@
+
+
+Customer ID:2
+Customer Name:dfr
+Customer Gender:f
+Description
+
+
+Destination	Canada
+Flight cost:	34000

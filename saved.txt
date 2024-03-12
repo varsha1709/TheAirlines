@@ -1,0 +1,19 @@
+
+Customer ID:2
+Customer Name:varsha
+Customer Gender:f
+Customer ID:5
+Customer Name:vaish
+Customer Gender:f
+Customer ID:5
+Customer Name:vaish
+Customer Gender:f
+Customer ID:7
+Customer Name:ritu
+Customer Gender:f
+Customer ID:2
+Customer Name:dfr
+Customer Gender:f
+Customer ID:2
+Customer Name:dfr
+Customer Gender:f
